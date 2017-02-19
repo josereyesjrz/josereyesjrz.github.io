@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+I’m a Computer Science student, currently at the [University of Puerto Rico, Río Piedras Campus.](http://ccom.uprrp.edu/2016/wordpress/)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I love functional languages, wacky regexes, and arguing about comics on the internet.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I’ll be posting about CS stuff, tech news, and (probably more than I should) about comics.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Interesting links are welcome. Send them by [email](mailto:josreyes53@gmail.com) or to my Twitter, [@jrz53](https://twitter.com/jrz53).
