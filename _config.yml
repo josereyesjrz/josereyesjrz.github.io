@@ -17,8 +17,7 @@ title: jrz’s blog
 email: josreyes53@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is where I (will try to) regularly post about articles I’ve saved to my
-  Instapaper, as a means to motivate myself to go through it and not leave it as
-  a dumping ground for interesting links. 
+  Instapaper, as a means to motivate myself to go through them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jrz53
