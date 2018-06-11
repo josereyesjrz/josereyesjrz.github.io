@@ -16,8 +16,7 @@
 title: jrz
 email: josreyes53@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is where I will sporadically post my thoughts about
-  computer science, comics, and sometimes politics.
+  Sporadic posts about computer science, comics and politics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jrz53
