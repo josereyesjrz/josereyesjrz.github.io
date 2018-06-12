@@ -7,4 +7,4 @@ I’m a Computer Science student, currently at the [University of Puerto Rico, R
 
 I’ll be posting about CS stuff, tech news, and (probably more than anything else) about comics.
 
-Interesting links are welcome. Send them by [email](mailto:josreyes53@gmail.com) or to my Twitter, [@jrz53](https://twitter.com/jrz53).
+Interesting links are welcome.
